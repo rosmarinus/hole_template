@@ -123,7 +123,7 @@ A4ラミネートフィルムはできるだけそのままの形で使う方が
 
 ### hole_guide_fast_typeV
 
-・hole_guide_fast_typeV.pdf
+・[hole_guide_fast_typeV.pdf](https://github.com/rosmarinus/hole_template/blob/master/hole_guide_fast_typeV.pdf)
 
 対象：DOYOモデル fast-typeV
 
@@ -135,7 +135,7 @@ A4縦を利用するときは、半分に曲げた後、さらに端になる線
 
 ### hole_guide_fast_typeV_curve
 
-・hole_guide_fast_typeV_curve.pdf
+・[hole_guide_fast_typeV_curve.pdf](https://github.com/rosmarinus/hole_template/blob/master/hole_guide_fast_typeV_curve.pdf)
 
 対象：DOYOモデル fast-typeV
 
@@ -147,7 +147,7 @@ A4縦を利用するときは、半分に曲げた後、さらに端になる線
 
 ### hole_guide_fast_typeV_square
 
-・hole_guide_fast_typeV_square.pdf
+・[hole_guide_fast_typeV_square.pdf](https://github.com/rosmarinus/hole_template/blob/master/hole_guide_fast_typeV_square.pdf)
 
 対象：DOYOモデル fast-typeV
 
@@ -160,7 +160,7 @@ A4縦を利用するときは、半分に曲げた後、さらに端になる線
 
 ### hole_guide_848
 
-・hole_guide_848.pdf
+・[hole_guide_848.pdf](https://github.com/rosmarinus/hole_template/blob/master/hole_guide_848.pdf)
 
 対象：DOYO モデル hybrid、DOYO モデル easy
 
@@ -168,7 +168,7 @@ A4縦を利用するときは、半分に曲げた後、さらに端になる線
 
 ### hole_guide_fast
 
-・hole_guide_fast.pdf
+・[hole_guide_fast.pdf](https://github.com/rosmarinus/hole_template/blob/master/hole_guide_fast.pdf)
 
 対象：DOYOモデル fast
 
@@ -176,7 +176,7 @@ A4縦を利用するときは、半分に曲げた後、さらに端になる線
 
 ### hole_guide_3-hole
 
-・hole_guide_3-hole.pdf
+・[hole_guide_3-hole.pdf](https://github.com/rosmarinus/hole_template/blob/master/hole_guide_3-hole.pdf)
 
 対象：DOYOモデル 初期
 
@@ -184,7 +184,7 @@ A4縦を利用するときは、半分に曲げた後、さらに端になる線
 
 ### hole_guide_868
 
-・hole_guide_868.pdf
+・[hole_guide_868.pdf](https://github.com/rosmarinus/hole_template/blob/master/hole_guide_868.pdf)
 
 対象：Prusa Face Shield (標準のヨーロッパバージョン)、3DVerkstan Prusa Compatible
 
@@ -195,7 +195,7 @@ A4縦を利用するときは、半分に曲げた後、さらに端になる線
 
 ### hole_guide_888
 
-・hole_guide_888.pdf
+・[hole_guide_888.pdf](https://github.com/rosmarinus/hole_template/blob/master/hole_guide_888.pdf)
 
 対象：3DVerkstan EUROPE 888、N3DPS Protective Face Shield
 
@@ -203,7 +203,7 @@ A4縦を利用するときは、半分に曲げた後、さらに端になる線
 
 ### hole_guide_iso838
 
-・hole_guide_iso838.pdf
+・[hole_guide_iso838.pdf](https://github.com/rosmarinus/hole_template/blob/master/hole_guide_iso838.pdf)
 
 対象：3DVerkstan ISO838
 
@@ -211,7 +211,7 @@ A4縦を利用するときは、半分に曲げた後、さらに端になる線
 
 ## ソースファイル
 
-それぞれのPDFには Adobe Illustrator CS6 で作成した同名の ai ソースファイルがあります。
+それぞれのPDFには Adobe Illustrator CS6 で作成した同名の [ai ソースファイル](https://github.com/rosmarinus/hole_template/tree/master/source)があります。
 
 ## ライセンス
 
