@@ -183,22 +183,34 @@ A4縦を利用するときは、半分に曲げた後、さらに端になる線
 
 透明シートの穴が3つになっています。シールド部はA4横のみ。1穴パンチの方が加工しやすい。
 
+### hole_guide_prusa_4_hole
+
+・[hole_guide_prusa_4_hole.pdf](https://github.com/rosmarinus/hole_template/blob/master/hole_guide_prusa_4_hole.pdf)
+
+対象：Prusa Face Shield (標準のヨーロッパバージョン)、3DVerkstan Prusa Compatible
+
+2mmずらした穴をあけて長円を作ります。二つの穴の中間が上記の868の穴の位置になっています。
+
+### hole_guide_prusa_3_hole
+
+・[hole_guide_prusa_3_hole.pdf](https://github.com/rosmarinus/hole_template/blob/master/hole_guide_prusa_3_hole.pdf)
+
+対象：Prusa Face Shield (USAバージョン)
+
+USA用の108mm間隔の3穴です。2mmずらした穴をあけて長円を作ります。
+
+### hole_guide_prusa_reinforcement
+
+hole_guide_prusa_reinforcement.pdf
+・[hole_guide_prusa_reinforcement.pdf](https://github.com/rosmarinus/hole_template/blob/master/hole_guide_prusa_reinforcement.pdf)
+
+PRUSA用のシールドの下部に付ける補強用のパーツ用
+
 ### hole_guide_868
 
 ・[hole_guide_868.pdf](https://github.com/rosmarinus/hole_template/blob/master/hole_guide_868.pdf)
 
-対象：Prusa Face Shield (標準のヨーロッパバージョン)、3DVerkstan Prusa Compatible
-
-穴の間隔が8cm、6cm、8cmになっている4穴用。
-なお、Prusa Face Shield のシールド下部に取り付ける補強パーツの穴は次のファイルを使って1穴パンチであけます。hole_guide_prusa_reinforcement.pdf
-
-### hole_guide_868_oval
-
-・[hole_guide_868_oval.pdf](https://github.com/rosmarinus/hole_template/blob/master/hole_guide_868_oval.pdf)
-
-対象：3DVerkstan Prusa Compatible
-
-3DVerkstan Prusa Compatible は突起が長円なっているので、それぞれの穴のすぐ横に2mmずらした穴をあけるようにしました。二つの穴の中間が上記の868の穴の位置になっています。
+穴の間隔が8cm、6cm、8cmになっている4穴用。Prusa以外。
 
 ### hole_guide_888
 
